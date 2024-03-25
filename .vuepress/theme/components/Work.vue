@@ -10,7 +10,7 @@
       <div class="w-full xs:w-1/2 lg:w-2/3 workImage work2 mb-5 md:mb-0">
         <div class="flex flex-col items-end">
           <p class="leading-3 mt-10 px-10 text-2xl font-nunito">TOKEN OF TRUST</p>
-          <p class="text-4xl leading-10 font-rubik font-bold px-10">Revenue Growth</p>
+          <p class="text-4xl leading-10 font-rubik font-bold px-10 text-right">Revenue Growth</p>
         </div>
       </div>
     </div>
@@ -18,7 +18,7 @@
       <div class="w-full xs:w-1/2 lg:w-2/3 workImage work3 mb-5 md:mb-0">
         <div class="flex flex-col items-end">
           <p class="leading-3 mt-10 px-10 text-2xl font-nunito">CAMBRIA</p>
-          <p class="text-4xl leading-10 font-rubik font-bold px-10">Digital Marketing</p>
+          <p class="text-4xl leading-10 font-rubik font-bold px-10 text-right">Digital Marketing</p>
         </div>
       </div>
       <div class="w-full xs:w-1/2 lg:w-1/3 workImage work4  mb-5 md:mb-0">
