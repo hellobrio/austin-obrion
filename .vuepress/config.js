@@ -9,7 +9,7 @@ module.exports = {
   head: [
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap' }],
     [`script`, { type: 'application/ld+json' }, schemaScript],
-    ['title', null, 'Austin O\'Brion — B2B SaaS CRO, Founder, Growth Advisor'],
+    // ['title', null, 'Austin O\'Brion — B2B SaaS CRO, Founder, Growth Advisor'],
     ['meta', { name: 'viewport', content: 'width=device-width, initial-scale=1.0' }]
   ],
   alias: {
