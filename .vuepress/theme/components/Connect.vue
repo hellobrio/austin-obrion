@@ -27,4 +27,10 @@
     name: 'Home'
   }
   </script>
+
+<style scoped lang="stylus">
+.bg-connect:hover
+    background-color:#025d5d;
+    color:white;
+</style>
   

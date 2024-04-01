@@ -29,5 +29,9 @@
   .btn-green:hover
     @apply bg-green-500
   
+  .bg-emailbutton:hover
+    background-color:#025d5d;
+    color:white;
+
   </style>
   
