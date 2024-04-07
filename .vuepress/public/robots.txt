@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://austinobrion.com/sitemap.xml  # Replace with your actual sitemap URL
