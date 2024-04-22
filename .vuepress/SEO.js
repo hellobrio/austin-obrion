@@ -1,4 +1,4 @@
-const schema = {
+const schema =  {
     "@context": "https://schema.org/",
     "@type": "Person",
     "name": "Austin O’Brion",
@@ -15,5 +15,4 @@ const schema = {
     ],
     "description": "Your Partner in B2B SaaS Success. As a Fractional CMO, CRO, Expert & Growth Advisor, I craft tailored strategies for exponential growth."
   };
-
-  module.exports = JSON.stringify(schema);
+module.exports = JSON.stringify(schema);

@@ -12,7 +12,7 @@
                             in design thinking and marketing, I generate demand and craft customer experiences that
                             drive B2B SaaS companies forward in their growth. Based in Minnesota's Twin Cities, I'm not
                             just a professional; I'm also a proud dad.</p>
-                        <p class="my-10 text-xl">From leading sales and marketing go-to-market as a CRO from $0 ARR to $1M ARR in SaaS to spearheading digital marketing for companies scaling from $200M Revenue to $400M+ Revenue, I bring a track record of success to the table. In addition to founding successful
+                        <p class="my-10 text-xl">From leading growth and go-to-market from $0 ARR to $1M ARR in SaaS to spearheading digital marketing for companies scaling from $200M Revenue to $400M+ Revenue, I bring a track record of success to the table. In addition to founding successful
                             companies like Martin Ashal and <a class="border-b-2 border-teal-700"
                                 href="https://tokenoftrust.com">Token of Trust</a>, I've lent my expertise to renowned
                             brands like <a class="border-b-2 border-teal-700"
@@ -75,8 +75,7 @@
                     <div class="w-0 md:w-2/6">
                     </div>
                     <div class="w-full md:w-4/5">
-                        <p class="text-xl">I work with businesses in varying capacities ranging from an advisor to acting as a fractional marketing executive. If you’re a B2B SaaS company that is above $500k ARR and needs help with GTM strategy, product marketing, scaling your customer acquisition model, or building your growth organization we might be a good match.  Working with me, you won’t just get a deck with a set of recommendations — I’ll learn your business and I’ll show you how to put it into the next gear.</p>
-                      
+                        <p class="text-xl">I work with businesses in varying capacities ranging from an advisor to acting as a fractional executive. If you’re a B2B SaaS company that is above $500k ARR and needs help with GTM strategy, product management, product marketing, or scaling your customer acquisition model we might be a good match.  Working with me, you won’t just get a deck with a set of recommendations — I’ll learn your product and I’ll show you how to put it into the next gear.</p>
                     </div>
                 </div>
             </div>
