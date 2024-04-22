@@ -101,6 +101,13 @@
       return{
         activeWork:0
       }
+    },
+    watch:{
+      activeWork: function (newQuestion, oldQuestion) {
+        setTimeout(() => {
+          this.activeWork=null
+        }, 2000);
+    }
     }
   }
   </script>
