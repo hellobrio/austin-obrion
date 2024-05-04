@@ -9,20 +9,20 @@
                     </div>
                     <div class="w-full md:w-4/5 font-nunito">
                         <p class="text-xl">Hi there, I'm Austin. For the past 18 years, I've been leading digital products and marketing initiatives that drive growth. </p>
-                        <p class="my-10 text-xl">FI have a proven track record, from launching a SaaS product that reached $1M in annual recurring revenue to scaling digital marketing efforts for companies growing from $200M to over $400M in revenue. Alongside founding successful ventures like Martin Ashal and Token of Trust, I've contributed my expertise to well-known brands such as
+                        <p class="my-10 text-xl">FI have a proven track record, from launching a SaaS product that reached $1M in annual recurring revenue to scaling digital marketing efforts for companies growing from $200M to over $400M in revenue. Alongside founding successful ventures like Martin Ashal and <a href="https://tokenoftrust.com/" target="_blank" class="border-b-2 border-teal-700">Token of Trust</a> , I've contributed my expertise to well-known brands such as
                              <a class="border-b-2 border-teal-700"
-                                href="https://www.hoistfitness.com/pages/lemond-series-exercise-bikes">LeMond
-                                Fitness</a>, <a class="border-b-2 border-teal-700" href="https://lemond.com">LeMond
+                                href="https://www.hoistfitness.com/pages/lemond-series-exercise-bikes" target="_blank">LeMond
+                                Fitness</a>, <a class="border-b-2 border-teal-700" href="https://lemond.com" target="_blank">LeMond
                                 Bikes</a>, <a class="border-b-2 border-teal-700"
-                                href="https://www.cambriausa.com">Cambria</a>, <a class="border-b-2 border-teal-700"
-                                href="https://michaelfoods.com">Michael Foods</a>, and <a
-                                class="border-b-2 border-teal-700" href="https://www.suncountry.com">Sun Country
+                                href="https://www.cambriausa.com" target="_blank">Cambria</a>, <a class="border-b-2 border-teal-700"
+                                href="https://michaelfoods.com" target="_blank">Michael Foods</a>, and <a
+                                class="border-b-2 border-teal-700" href="https://www.suncountry.com" target="_blank">Sun Country
                                 Airlines</a>.</p>
                                 <p class="my-10 text-xl">
                                 Beyond my professional pursuits, I'm actively involved in nurturing the entrepreneurial community.
                                  I advise startups in the <a class="border-b-2 border-teal-700"
-                                href="https://www.gener8tor.com">Gener8tor </a> Accelerator program and judge the <a class="border-b-2 border-teal-700"
-                                href="https://carlsonschool.umn.edu/mn-cup">Minnesota Cup High</a> Tech Division.
+                                href="https://www.gener8tor.com" target="_blank">Gener8tor </a> Accelerator program and judge the <a class="border-b-2 border-teal-700"
+                                href="https://carlsonschool.umn.edu/mn-cup" target="_blank">Minnesota Cup High</a> Tech Division.
                                   Additionally, I volunteer as a coach for a High School entrepreneurship club,
                                  which has garnered over 20 national awards and seen several student-led ventures become fully operational companies
                             </p>

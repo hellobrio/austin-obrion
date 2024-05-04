@@ -1,5 +1,6 @@
 <template>
   <div class="text-black">
+    <p class="font-nunito font-bold leading-none text-2xl text-center text-white">TESTIMONIALS</p>    
     <div class="px-5 md:px-20 flex" :class="index % 2 == 0 ? 'justify-start' : 'justify-end'"
       v-for="(comment, index) in comments">
       <div class="bg-comment my-2 md:my-5 w-full md:w-3/5" :class="index % 2 == 0 ? 'comment-left' : 'comment-right'">
@@ -16,7 +17,7 @@
                     <p>{{ comment.relationship }}</p>
                    <div class="flex items-center">
                     <img class="w-6 h-6 mr-2 lg:ml-4" src="../../public/images/icon_linkedin-blue.svg" alt="">
-                    <a :href="comment.linkedin_url">View on LinkedIn</a>
+                    <a :href="comment.linkedin_url" target="_blank">View on LinkedIn</a>
                    </div>
                   </div>
                 </div>
