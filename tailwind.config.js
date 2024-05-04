@@ -10,7 +10,9 @@ module.exports = {
         emailbutton:"#009D9D",
         comment:"#ABFFC3",
         connect:"#072424",
-        hamburgerbg:"#144444"
+        hamburgerbg:"#144444",
+        commentColor:'#336633'
+
       },
       opacity: {
         75: '.75',

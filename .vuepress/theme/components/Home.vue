@@ -4,9 +4,9 @@
     <section class="intro mb-8 ">
       <p class="my-10 text-hero leading-none font-rubik font-black">Hey, I’m
         Austin.</p>
-      <p class=" font-nunito font-medium my-10 text-2xl">Rooted in design thinking and armed with GTM expertise, I specialize in crafting digital customer experiences that propel B2B SaaS companies forward in their growth.
+      <p class=" font-nunito font-medium my-10 text-2xl">Rooted in design thinking and armed with go-to-market expertise, I specialize in crafting scalable digital products that propel companies forward in their growth. 
       </p>
-      <p class=" font-nunito font-medium text-2xl">Growth Advisor / Digital Product Leader / CX / Founder
+      <p class=" font-nunito font-medium text-2xl">Digital Product Leader / Growth Advisor / CX / Founder
       </p>
     </section>
   </div>

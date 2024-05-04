@@ -11,7 +11,7 @@
     <div class="w-full md:block md:w-auto nav-auto" :class="showNav?'show':'hidden'">
       <ul class="font-medium flex flex-col gap-3 mt-4 glass rounded-lg md:rounded-full p-2 md:p-1 bg-gray-50 md:flex-row md:space-x-8 rtl:space-x-reverse md:mt-0 md:border-0 md:bg-white dark:bg-gray-800 md:dark:bg-gray-900 dark:border-gray-700">
         <li>
-          <router-link exact to="/" class="px-4 py-2 block w-full md:w-auto">Home</router-link to="/">
+          <router-link exact to="#work" class="px-4 py-2 block w-full md:w-auto">Home</router-link to="/">
         </li>
         <li>
           <router-link exact to="#about" class="px-4 py-2 block w-full md:w-auto">About</router-link>
@@ -47,6 +47,7 @@ export default {
   },
   mounted() {
     window.addEventListener('scroll', this.handleScroll);
+    window.addEventListener('scroll', this.highlightNavbarItem);
   },
   methods: {
     handleScroll() {
@@ -62,10 +63,35 @@ export default {
     },
     toggleNav(event){
       this.showNav = !this.showNav
-    }
+    },
+    highlightNavbarItem() {
+      const sections = ['work', 'about', 'growth', 'connect'];
+
+      const scrollPosition = window.scrollY;
+
+      sections.forEach((sectionId) => {
+        const section = document.getElementById(sectionId);
+
+        if (!section) return; // Skip if section not found
+
+        const sectionTop = section.offsetTop;
+        const sectionHeight = section.clientHeight;
+
+        if (scrollPosition >= sectionTop && scrollPosition < sectionTop + sectionHeight) {
+          // Highlight the corresponding navbar item
+          // For example, you can add a class to the navbar item
+          // Or update its styling to indicate it's active
+          const currentRoute = this.$route.hash;
+          if (!currentRoute || currentRoute !== `#${sectionId}`) {
+            this.$router.push(`/#${sectionId}`);
+          }
+        }
+      });
+    },
   },
   beforeDestroy() {
     window.removeEventListener('scroll', this.handleScroll);
+    window.removeEventListener('scroll', this.highlightNavbarItem);
   }
 }
 </script>

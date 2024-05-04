@@ -1,5 +1,5 @@
 <template>
-    <div class="text-black">
+    <div class="text-black" id="work">
         <div class="flex flex-wrap md:flex-no-wrap gap-0 md:gap-5 lg:gap-10 sm:px-10 lg:px-20 sm:my-5 lg:my-10">
       <div class="w-full xs:w-1/2 lg:w-1/3 workImage work1 mb-5 md:mb-0" @click="activeWork===1?activeWork=null:activeWork=1">
         <div class="flex flex-col items-end">
