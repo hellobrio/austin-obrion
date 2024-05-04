@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vuepress dev",
     "build": "vuepress build",
-    "postbuild": "node ./copyFiles.js",
     "start": "npm run dev"
   },
   "author": "xiaoluoboding",
