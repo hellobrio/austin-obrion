@@ -7,14 +7,19 @@
           <p class="text-xl italic p-10 font-nunito">{{ comment.quote }}</p>
           <div class="px-10 mb-5 font-nunito text-xl" :class="index % 2 == 0 ? 'text-left' : 'text-right'">
             <div class="flex items-center gap-5">
-              <img class="h-16 w-16 rounded-full " :src="require(`../../public/images/${comment.contact_image}`)"  alt="">
+              <img class="h-16 w-16 rounded-full " :src="require(`../../public/images/${comment.contact_image}`)"
+                alt="">
               <div class="flex flex-col">
-              <p class="text-left"> {{ comment.contact_name }}</p>
-              <div class="text-commentColor flex gap-2 items-center"> 
-                <p>{{ comment.relationship }}</p>
-              <img class="w-6 h-6 ml-4" src="../../public/images/icon_linkedin-blue.svg" alt="">
-              <a :href="comment.linkedin_url">View on LinkedIn</a>
-              </div>
+                <p class="text-left"> {{ comment.contact_name }}</p>
+                <div class="text-commentColor flex gap-2 items-center">
+                  <div class="flex flex-col lg:flex-row items-center">
+                    <p>{{ comment.relationship }}</p>
+                   <div class="flex items-center">
+                    <img class="w-6 h-6 mr-2 lg:ml-4" src="../../public/images/icon_linkedin-blue.svg" alt="">
+                    <a :href="comment.linkedin_url">View on LinkedIn</a>
+                   </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
