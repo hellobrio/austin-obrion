@@ -9,7 +9,7 @@
                     </div>
                     <div class="w-full md:w-4/5 font-nunito">
                         <p class="text-xl">Hi there, I'm Austin. For the past 18 years, I've been leading digital products and marketing initiatives that drive growth. </p>
-                        <p class="my-10 text-xl">FI have a proven track record, from launching a SaaS product that reached $1M in annual recurring revenue to scaling digital marketing efforts for companies growing from $200M to over $400M in revenue. Alongside founding successful ventures like Martin Ashal and <a href="https://tokenoftrust.com/" target="_blank" class="border-b-2 border-teal-700">Token of Trust</a> , I've contributed my expertise to well-known brands such as
+                        <p class="my-10 text-xl">I have a proven track record, from launching a SaaS product that reached $1M in annual recurring revenue to scaling digital marketing efforts for companies growing from $200M to over $400M in revenue. Alongside founding successful ventures like Martin Ashal and <a href="https://tokenoftrust.com/" target="_blank" class="border-b-2 border-teal-700">Token of Trust</a> , I've contributed my expertise to well-known brands such as
                              <a class="border-b-2 border-teal-700"
                                 href="https://www.hoistfitness.com/pages/lemond-series-exercise-bikes" target="_blank">LeMond
                                 Fitness</a>, <a class="border-b-2 border-teal-700" href="https://lemond.com" target="_blank">LeMond
@@ -22,7 +22,7 @@
                                 Beyond my professional pursuits, I'm actively involved in nurturing the entrepreneurial community.
                                  I advise startups in the <a class="border-b-2 border-teal-700"
                                 href="https://www.gener8tor.com" target="_blank">Gener8tor </a> Accelerator program and judge the <a class="border-b-2 border-teal-700"
-                                href="https://carlsonschool.umn.edu/mn-cup" target="_blank">Minnesota Cup High</a> Tech Division.
+                                href="https://carlsonschool.umn.edu/mn-cup" target="_blank">Minnesota Cup </a> High Tech Division.
                                   Additionally, I volunteer as a coach for a High School entrepreneurship club,
                                  which has garnered over 20 national awards and seen several student-led ventures become fully operational companies
                             </p>
@@ -74,7 +74,7 @@
                     <div class="w-full md:w-4/5">
                         <p class="text-xl">I partner with companies, specializing in digital products and with annual recurring revenue exceeding $1M. If you're looking to enhance your go-to-market strategy, product management, marketing, or customer acquisition efforts, let’s connect.</p>
                         <p class="text-xl my-10">
-                            My holistic approach focuses on actionable strategies that drive user satisfaction and business growth. This starts with putting the customer first. I begin by understanding pain points and jobs-to-be-done so roadmaps are zeroed in on high-impact solutions. Once fit (PMF) is established, I accelerate growth with strategies based on how customers want to buy — not how the company wants to sell. I’m well-versed in mapping and executing journeys using both product-led growth (PLG) and sales-led growth (SLG) principles. I'm a hands-on maker who lives for creating products customers love. That laser-focus on user needs has fueled my ability to drive growth.I incorporate agile methodologies to maintain flexibility and responsiveness, allowing us to quickly adapt to market changes and customer feedback.
+                            My holistic approach focuses on actionable strategies that drive user satisfaction and business growth. This starts with putting the customer first. I begin by understanding pain points and jobs-to-be-done so roadmaps are zeroed in on high-impact solutions. Once fit (PMF) is established, I accelerate growth with strategies based on how customers want to buy — not how the company wants to sell. I’m well-versed in mapping and executing journeys using both product-led growth (PLG) and sales-led growth (SLG) principles. I'm a hands-on maker who lives for creating products customers love. That laser-focus on user needs has fueled my ability to drive growth. I incorporate agile methodologies to maintain flexibility and responsiveness, allowing us to quickly adapt to market changes and customer feedback.
                         </p>
                         <p>Interested in working with me? 
                             <a href="#connect" class="border-b-2 border-teal-700">Let’s connect.</a>

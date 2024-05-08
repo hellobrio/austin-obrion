@@ -12,7 +12,7 @@
                 
                   <div class="h-32 md:h-64 w-32 md:w-64 rounded-2xl bg-connect flex flex-col justify-center items-center">
                     <a href="https://austinobrion.medium.com/" class="flex flex-col justify-center items-center">
-                        <img src="../../public/images/icon_medium.svg" class="w-2/3" alt="">
+                        <img src="../../public/images/icon_medium.svg" class="w-8/12" alt="">
                         <p class="text-sm md:text-2xl">MEDIUM BLOG</p>  
                     </a>
                 </div>

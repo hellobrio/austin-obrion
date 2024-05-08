@@ -1,9 +1,9 @@
 <template>
-  <div class="text-black">
-    <p class="font-nunito font-bold leading-none text-2xl text-center text-white">TESTIMONIALS</p>    
+  <div class="">
+    <p class="font-nunito font-bold leading-none text-4xl text-center">TESTIMONIALS</p>
     <div class="px-5 md:px-20 flex" :class="index % 2 == 0 ? 'justify-start' : 'justify-end'"
       v-for="(comment, index) in comments">
-      <div class="bg-comment my-2 md:my-5 w-full md:w-3/5" :class="index % 2 == 0 ? 'comment-left' : 'comment-right'">
+      <div class="bg-comment my-2 md:my-5 w-full md:w-3/5 text-black" :class="index % 2 == 0 ? 'comment-left' : 'comment-right'">
         <div class="flex flex-col">
           <p class="text-xl italic p-10 font-nunito">{{ comment.quote }}</p>
           <div class="px-10 mb-5 font-nunito text-xl" :class="index % 2 == 0 ? 'text-left' : 'text-right'">
@@ -13,11 +13,11 @@
               <div class="flex flex-col">
                 <p class="text-left"> {{ comment.contact_name }}</p>
                 <div class="text-commentColor flex gap-2 items-center">
-                  <div class="flex flex-col lg:flex-row items-center">
-                    <p>{{ comment.relationship }}</p>
+                  <div class="flex flex-col xl:flex-row items-left xl:items-center">
+                    <p class="text-sm sm:text-md md:text-sm italic">{{ comment.relationship }}</p>
                    <div class="flex items-center">
-                    <img class="w-6 h-6 mr-2 lg:ml-4" src="../../public/images/icon_linkedin-blue.svg" alt="">
-                    <a :href="comment.linkedin_url" target="_blank">View on LinkedIn</a>
+                    <img class="w-6 h-6 mr-2 xl:ml-4" src="../../public/images/icon_linkedin-blue.svg" alt="">
+                    <a :href="comment.linkedin_url" target="_blank" class="text-sm sm:text-md md:text-sm border-b-2 border-teal-700">View on LinkedIn</a>
                    </div>
                   </div>
                 </div>
