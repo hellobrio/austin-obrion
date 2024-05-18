@@ -76,7 +76,7 @@
                         <p class="text-xl my-10">
                             My holistic approach focuses on actionable strategies that drive user satisfaction and business growth. This starts with putting the customer first. I begin by understanding pain points and jobs-to-be-done so roadmaps are zeroed in on high-impact solutions. Once fit (PMF) is established, I accelerate growth with strategies based on how customers want to buy — not how the company wants to sell. I’m well-versed in mapping and executing journeys using both product-led growth (PLG) and sales-led growth (SLG) principles. I'm a hands-on maker who lives for creating products customers love. That laser-focus on user needs has fueled my ability to drive growth. I incorporate agile methodologies to maintain flexibility and responsiveness, allowing us to quickly adapt to market changes and customer feedback.
                         </p>
-                        <p>Interested in working with me? 
+                        <p class="text-xl">Interested in working with me? 
                             <a href="#connect" class="border-b-2 border-teal-700">Let’s connect.</a>
                         </p>
                     </div>
